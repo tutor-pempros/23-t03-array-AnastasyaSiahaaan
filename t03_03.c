@@ -1,4 +1,4 @@
-// NIM - NAMA
+// 12S23046 - Anastasya T.B. Siahaan
 
 #include <stdio.h>
 
